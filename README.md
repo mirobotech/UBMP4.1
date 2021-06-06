@@ -29,12 +29,12 @@ Just plug UBMP4.1 into a USB port, wait for it to appear on your computer as dri
 
 UBMP4.1 is open hardware and uses open source software. The following permissions and conditions apply to UBMP4.1:
 - the KiCad UBMP4.1 files stored in GitHub are open hardware licensed under the terms of the MIT license (except the mirobo.tech logo - see below)
-- UBMP4.1 programs stored in GitHub are open source softare licensed under the terms of the MIT license
+- UBMP4.1 programs stored in GitHub are open source software licensed under the terms of the MIT license
 - UMBP4.1 learning materials on the mirobo.tech website are licensed under the terms of the Creative Commons CC-BY 4.0 license
-- the USB uC bootloader is open source and licenced under the terms of the GPL3.0 license by John Izzard
+- the USB uC bootloader is open source and licensed under the terms of the GPL3.0 license by John Izzard
 - the mirobo.tech logo mark is a trademark of mirobo Technolgy and may not be used without prior permission
 
 ## Where can I buy UBMP4.1?
 
-UBMP4.1 boards and kits are avaiable at [mirobo.tech](https://mirobo.tech/ubmp4).  
+UBMP4.1 boards and kits are available at [mirobo.tech](https://mirobo.tech/ubmp4).  
 Bare UBMP4.1 printed circuit boards are also available from [OSHPARK](https://oshpark.com/shared_projects/b04AabPV).
