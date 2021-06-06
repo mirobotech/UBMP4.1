@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name UBMP4)(type Legacy)(uri /Users/johnrampelt/mirobo/UBMP4.1/UBMP4.1.lib)(options "")(descr ""))
+  (lib (name UBMP4-rescue)(type Legacy)(uri /Users/johnrampelt/mirobo/UBMP4.1/UBMP4.1-rescue.lib)(options "")(descr ""))
+  (lib (name UBMP4.1-rescue)(type Legacy)(uri ${KIPRJMOD}/UBMP4.1-rescue.lib)(options "")(descr ""))
+)

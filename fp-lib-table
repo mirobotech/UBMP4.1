@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name UBMP4)(type KiCad)(uri ${KIPRJMOD}/UBMP4.pretty)(options "")(descr "")(disabled))
+  (lib (name UBMP4.1)(type KiCad)(uri ${KIPRJMOD}/UBMP4.1.pretty)(options "")(descr ""))
+)
